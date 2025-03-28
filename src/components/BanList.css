@@ -1,0 +1,10 @@
+
+.container{
+    background-color: black;
+    width: 50vw;
+}
+
+.listContainer button{
+    color: #242424;
+    background-color: white;
+}
